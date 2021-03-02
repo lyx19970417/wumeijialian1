@@ -1,0 +1,55 @@
+.bg{
+    background: #fff;
+}
+.header{
+    background-color: #f6f6f6;
+    height: 25px;
+    padding: 0 74.5px;
+    min-width: 1200px;
+}
+.header>div{
+    line-height: 24px;
+
+}
+.index,.left{
+    float: left;
+}
+.user{
+    float:right;
+}
+.index>a,.user>a{
+    color: #666;
+    font-size: 12px;
+    text-decoration: none;
+}
+.index:hover{
+    background: #fff;
+}
+.index>a:hover{
+    color: #ff464e;
+}
+.user_1{
+    background: #fff;
+    float:right;
+    font-size: 12px;
+}
+.style{
+    color: #ff464e;
+    display: inline-block;
+    width: 90px;
+    height: 24px ; 
+}
+.both{
+    clear: both;
+}
+.left{
+    margin-left: 74.5px;
+    width: 200px;
+    height: 34px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    background: url(../../../../public/img_order/shopping-total.png) no-repeat 0 -34px;
+}
+.img_1{
+  border-bottom: 2px solid #ff464e;
+}

@@ -1,0 +1,32 @@
+.content{
+	padding: 0 74.5px;
+}
+.content_top{
+	padding:15px 0;
+}
+.content_top li{
+	padding: 0 15px;
+}
+.content li:first-child{
+	border-right:2px solid #F6F6F6 ;
+}
+.content_top  li a{
+	display: block;
+	color: #333;
+	font-size: 14px;
+	line-height: 20px;
+}
+.style{
+	border-bottom: 2px solid #ff464e;
+}
+.stor{
+	height: 500px;
+	color: #ff464e;
+	background: #eeeeee;
+	line-height: 500px;
+	font-size: 30px;
+	text-align: center;
+}
+.border_hover{
+	margin-left: 40px;
+}
